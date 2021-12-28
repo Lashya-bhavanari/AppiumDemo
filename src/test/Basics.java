@@ -9,6 +9,7 @@ public class Basics {
 		System.out.println("Lashya");
 		System.out.println("LashyaPriya");
 		System.out.println("Lashya");
+		System.out.println("Lashya1234");
 	}
 
 }
