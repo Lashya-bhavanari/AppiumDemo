@@ -7,6 +7,7 @@ public class Basics {
 	public void Demo(){
 		System.out.println("Hi");
 		System.out.println("Lashya");
+		System.out.println("LashyaPriya");
 	}
 
 }
